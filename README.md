@@ -1,9 +1,4 @@
-## Developed by
-  - **Naufal Hafizh**
-  - **Jendra Satria**
+﻿# Simple-Javascript-Project
 
-## Teknologi yang Digunakan
-- **Backend:** Laravel.
-- **Frontend:** React.
-- **Database:** PostgreSQL.
-- **Deployment:** Docker Lek bima gelem.
+Ini hanya berisi folder projek projek javascript sederhana
+yang saya buat untuk mengisi waktu luang dan mengasah logika di javascript
